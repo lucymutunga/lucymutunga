@@ -12,16 +12,8 @@
 - 😊 2023 Goals:Contribute in open source projects.
 - 💡 And yeees...- I'm a lifelong learner
 
-### Connect With Me:
-
-<img src="https://img.icons8.com/icons8.com/ios/50/000000/youtube-play--V2.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/Linkedin.png"/>
-<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
 
 
-###  Languages and Tools:
-<b>My Github stats</b>
-<a href="streaks>
 
          
          
