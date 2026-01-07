@@ -8,7 +8,6 @@
 - 🖇️ Check out my Linkedin: [Click Here](https://www.linkedin.com/in/lucy-alphonce-480a5a205/)
 - 💜 I'm falling in love with Javascript
 - 🤝 🏽I'm looking to collaborate with other developers and creators.
-- 😊 2024 Goals:Increase my github Stats by Contributing to open source projects.
 - 💡 And yeees...- I'm a lifelong learner
 
 ---------------------------------------------------------
