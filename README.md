@@ -1,5 +1,5 @@
 # Hi! I'm Lucy ☺️
-### Software Developer || UI/UX Designer || Team Player
+### Product Manager || UI/UX Designer || Team Player
 
 ------------
 
