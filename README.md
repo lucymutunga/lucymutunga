@@ -6,9 +6,7 @@
 #### Who is Lucy
 
 - 🖇️ Check out my Linkedin: [Click Here](https://www.linkedin.com/in/lucy-alphonce-480a5a205/)
-- 💜 I'm falling in love with Javascript
-- 🤝 🏽I'm looking to collaborate with other developers and creators.
-- 💡 And yeees...- I'm a lifelong learner
+
 
 ---------------------------------------------------------
 ---------------------------------------------------------
