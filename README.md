@@ -11,7 +11,7 @@
 ---------------------------------------------------------
 ---------------------------------------------------------
 
-# 💃When i'm AFK:
+# 💃When I'm AFK:
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
